@@ -1,0 +1,46 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    height: 10rem;
+    padding: 1rem 2rem;
+}
+
+.footer-logo-wrapper {
+    width: 200px;
+    width: 12rem;
+    height: 6rem;
+    color: rgb(247, 217, 99);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-logo-wrapper img {
+    width: 50%;
+    height: 100%;
+    margin: 0;
+    margin-right: .5rem;
+}
+
+.footer-logo-wrapper__text {
+    font-size: 1.5rem;
+}
+
+
+.footer-nav-links {
+    width: 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-nav-links a {
+    color: rgb(247, 217, 99);
+    text-decoration: none;
+}
+
+.yellow {
+    color: rgb(247, 217, 99);
+}
